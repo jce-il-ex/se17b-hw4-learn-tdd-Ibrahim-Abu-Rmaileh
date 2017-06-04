@@ -20,7 +20,7 @@ For students, follow these steps:
 - Name:  אברהים אבו רמילה
 - ID#:206959926
 - github username: Ibrahim-Abu-Rmaileh
-- Estimation of hours I worked on it: 4-5 hours approximately
+- Estimation of hours I worked on it: 4-7 hours approximately
 
 If you have an improvement suggestion or a bug fix for this tutorial, please open an issue [here](https://github.com/jce-il/learn-mocha/issues) or send a PR with a fix.
 
